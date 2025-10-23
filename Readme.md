@@ -49,7 +49,6 @@ The following digests confirm successful execution of various marketplace functi
 | Transaction Type | Transaction Digest (Hash) |
 | :--- | :--- |
 | **Edit Description**  | `BHhjKQnJTdH9YdgzyM4obqw1dYnwhqhRbbAGAALY6TPq` |
-
 | **Burn NFT** | `EAPypsgNgbaWvgQVMkp8d7fUQ2MymPRhZw8Jtzkv8fGD` |
 
 ***
