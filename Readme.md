@@ -47,8 +47,8 @@ The following digests confirm successful execution of various marketplace functi
 
 | Transaction Type | Transaction Digest (Hash) |
 | :--- | :--- |
-| **Edit Description** (`update_nft_description`) | `BHhjKQnJTdH9YdgzyM4obqw1dYnwhqhRbbAGAALY6TPq` |
-| **Transfer NFT** (`transfer`) | `DjVWdkA35RNHWAuYXyXdtnrrNCNWP9zEYDELcPFL4qQV` |
-| **Burn NFT** (`burn`) | `EAPypsgNgbaWvgQVMkp8d7fUQ2MymPRhZw8Jtzkv8fGD` |
+| **Edit Description**  | `BHhjKQnJTdH9YdgzyM4obqw1dYnwhqhRbbAGAALY6TPq` |
+| **Transfer NFT** | `DjVWdkA35RNHWAuYXyXdtnrrNCNWP9zEYDELcPFL4qQV` |
+| **Burn NFT** | `EAPypsgNgbaWvgQVMkp8d7fUQ2MymPRhZw8Jtzkv8fGD` |
 
 ***
