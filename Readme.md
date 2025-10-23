@@ -42,13 +42,14 @@ The following digests confirm successful execution of various marketplace functi
 | **List NFT** | `54TkvKuTcRMrngRDzzY7ZTGuRegrn9h91xYEt3WfoJXu` |
 | **Buy NFT** | `7hzmsGW3iD4wrk4PdtuvJtKUzUuaWkzfVpUguVCVtAVU` |
 | **Cancel Listing** | `7Hoha2KpX6uUhjUTMgedVqe8vNaEksMhNbznpvCDMoRB` |
+| **Transfer NFT** | `DjVWdkA35RNHWAuYXyXdtnrrNCNWP9zEYDELcPFL4qQV` |
 
-### 🛠️ NFT Maintenance
+### NFT Maintenance
 
 | Transaction Type | Transaction Digest (Hash) |
 | :--- | :--- |
 | **Edit Description**  | `BHhjKQnJTdH9YdgzyM4obqw1dYnwhqhRbbAGAALY6TPq` |
-| **Transfer NFT** | `DjVWdkA35RNHWAuYXyXdtnrrNCNWP9zEYDELcPFL4qQV` |
+
 | **Burn NFT** | `EAPypsgNgbaWvgQVMkp8d7fUQ2MymPRhZw8Jtzkv8fGD` |
 
 ***
